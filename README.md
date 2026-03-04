@@ -32,7 +32,3 @@ The project aims to provide a platform to share knowledge and resources related 
 - **Mental Health - Paul**:
 - **Physical Activity - Yuki**:
 - **Preventive Care - Yuki**:
-
-
-## Conclusion
-This REQUIREMENTS.md serves as a preliminary guide for development and future reference. Further details will be added as the project evolves.
